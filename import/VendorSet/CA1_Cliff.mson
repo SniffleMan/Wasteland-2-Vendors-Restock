@@ -1,0 +1,6 @@
+//Ulric Kell, Rodia
+{
+	skus :  [
+		{ itemTemplate: Tequila, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+	}
+}

@@ -1,0 +1,14 @@
+//Hopi, Damonta
+{
+	skus :  [
+		{ itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.30-06_S, count: 35, isRestockable : true, minReplenish : 35, maxReplenish : 35 }
+		{ itemTemplate: Ammo_.38_S, count: 70, isRestockable : true, minReplenish : 70, maxReplenish : 70 }
+		{ itemTemplate: Ammo_.45_S, count: 40, isRestockable : true, minReplenish : 40, maxReplenish : 40 }
+		{ itemTemplate: Ammo_12-00, count: 45, isRestockable : true, minReplenish : 45, maxReplenish : 45 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 80, isRestockable : true, minReplenish : 80, maxReplenish : 80 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_9mm_S, count: 60, isRestockable : true, minReplenish : 60, maxReplenish : 60 }
+		{ itemTemplate: Ammo_EnergyCell, count: 45, isRestockable : true, minReplenish : 45, maxReplenish : 45 }
+	]
+}

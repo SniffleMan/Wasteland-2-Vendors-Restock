@@ -1,0 +1,19 @@
+//Alex Dupre, Salt Lake Park
+{
+	skus :  [
+		{ itemTemplate: AssaultRifle_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Energy_Tier_4_2_WOPR, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: MachineGun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AntiTank_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AntiTank_Tier_2_1, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Shotgun_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Sniper_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Bladed_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: SMG_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Throwable_Grenade, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+		{ itemTemplate: Throwable_Grenade_Small, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+		{ itemTemplate: Luminox Watch, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+	]
+}

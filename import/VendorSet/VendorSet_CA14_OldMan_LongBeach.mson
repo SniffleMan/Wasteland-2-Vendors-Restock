@@ -1,0 +1,15 @@
+//Old Man, Long Beach
+{
+	skus :  [
+		{ itemTemplate: Ammo_.30-06_S, count: 132, isRestockable : true, minReplenish : 132, maxReplenish : 132 }
+		{ itemTemplate: Ammo_.45_S, count: 62, isRestockable : true, minReplenish : 62, maxReplenish : 62 }
+		{ itemTemplate: Ammo_.50_S, count: 82, isRestockable : true, minReplenish : 82, maxReplenish : 82 }
+		{ itemTemplate: Ammo_12-00, count: 135, isRestockable : true, minReplenish : 135, maxReplenish : 135 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 126, isRestockable : true, minReplenish : 126, maxReplenish : 126 }
+		{ itemTemplate: Ammo_EnergyCell, count: 92, isRestockable : true, minReplenish : 92, maxReplenish : 92 }
+		{ itemTemplate: Usable_AntiBiotics_1, count: 6, isRestockable : true, minReplenish : 6, maxReplenish : 6 }
+		{ itemTemplate: Usable_BloodPack_5, count: 6, isRestockable : true, minReplenish : 6, maxReplenish : 6 }
+		{ itemTemplate: Usable_BloodPack_6, count: 11, isRestockable : true, minReplenish : 11, maxReplenish : 11 }
+		{ itemTemplate: Usable_PainRelievers_5, count: 6, isRestockable : true, minReplenish : 6, maxReplenish : 6 }
+	]
+}

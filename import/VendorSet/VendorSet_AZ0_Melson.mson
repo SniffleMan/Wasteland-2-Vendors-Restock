@@ -1,0 +1,7 @@
+{
+	skus :  [
+		{ itemTemplate: AssaultRifle_Tier_3_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_3_Light, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 500, isRestockable : true, minReplenish : 500, maxReplenish : 500 }
+	]
+}

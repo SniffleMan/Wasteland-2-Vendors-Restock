@@ -1,0 +1,28 @@
+//Captain Martin Hogan, Temple of Titan
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_3_Heavy, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_3_Light, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: AssaultRifle_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AntiTank_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Shotgun_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Throwable_Grenade_Small, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Bladed_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.30-06_S, count: 65, isRestockable : true, minReplenish : 65, maxReplenish : 65 }
+		{ itemTemplate: Ammo_.38_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_.45_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_12-00, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 50, isRestockable : true, minReplenish : 50, maxReplenish : 50 }
+		{ itemTemplate: Ammo_9mm_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_EnergyCell, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Mod_Scope_Large, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Mod_MeleeWeight_Light, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Mod_Barrel_Long, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Useable_Surgeon_Kit_2, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: Usable_BloodPack_3, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+	]
+}

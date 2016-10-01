@@ -1,0 +1,22 @@
+//Tom, Cerritos
+{
+	skus :  [
+		{ itemTemplate: AssaultRifle_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Energy_Tier_4_2_WOPR, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Shotgun_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Sniper_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: .45 Peace Keeper, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.30-06_S, count: 25, isRestockable : true, minReplenish : 25, maxReplenish : 25 }
+		{ itemTemplate: Bladed_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: SMG_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.38_S, count: 50 isRestockable : true, minReplenish : 50, maxReplenish : 50 }
+		{ itemTemplate: Ammo_.45_S, count: 45, isRestockable : true, minReplenish : 45, maxReplenish : 45 }
+		{ itemTemplate: Ammo_12-00, count: 45, isRestockable : true, minReplenish : 45, maxReplenish : 45 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 80, isRestockable : true, minReplenish : 80, maxReplenish : 80 }
+		{ itemTemplate: Ammo_9mm_S, count: 70, isRestockable : true, minReplenish : 70, maxReplenish : 70 }
+		{ itemTemplate: Snake Squeezin, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+	]
+}

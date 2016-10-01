@@ -1,0 +1,5 @@
+{
+	skus :  [
+		{ itemTemplate: Bladed_Tier_1_3, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+	]
+}

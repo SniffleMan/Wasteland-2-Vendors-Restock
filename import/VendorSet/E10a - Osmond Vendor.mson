@@ -1,0 +1,31 @@
+//Osmond, Angel Oracle
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_5_Light, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Armor_Tier_5_Heavy, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Bladed_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Brawling_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Energy_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: AssaultRifle_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Handgun_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Shotgun_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Sniper_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: SMG_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: MachineGun_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Throwable_Grenade, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+    { itemTemplate: AntiTank_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.30-06_S, count: 40, isRestockable : true, minReplenish : 40, maxReplenish : 40 }
+		{ itemTemplate: Ammo_.38_S, count: 80 isRestockable : true, minReplenish : 80, maxReplenish : 80 }
+		{ itemTemplate: Ammo_.45_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_12-00, count: 60, isRestockable : true, minReplenish : 60, maxReplenish : 60 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 150, isRestockable : true, minReplenish : 150, maxReplenish : 150 }
+		{ itemTemplate: Ammo_9mm_S, count: 90, isRestockable : true, minReplenish : 90, maxReplenish : 90 }
+    { itemTemplate: Ammo_EnergyCell, count: 65, isRestockable : true, minReplenish : 65, maxReplenish : 65 }
+    { itemTemplate: Useable_Surgeon_Kit_3, count: 4, isRestockable : true, minReplenish : 4, maxReplenish : 4 }
+    { itemTemplate: Usable_PainRelievers_5, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+    { itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Snake Squeezin, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+	]
+}

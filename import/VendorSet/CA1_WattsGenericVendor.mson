@@ -1,0 +1,23 @@
+//Samuel, Rodia
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_4_Light, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Armor_Tier_4_Heavy, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: AssaultRifle_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Brawling_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AntiTank_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Throwable_Grenade_Small, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+		{ itemTemplate: MachineGun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Shotgun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: SMG_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Mod_Barrel_Silencer, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Usable_BloodPack_4, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: Useable_Surgeon_Kit_2, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: Usable_AntiBiotics_1, count:5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+		{ itemTemplate: Usable_AntiVenom_1, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+		{ itemTemplate: Usable_BloodPack_3, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+		{ itemTemplate: Usable_Bandages_1, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+	]
+}

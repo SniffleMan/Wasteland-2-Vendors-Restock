@@ -1,0 +1,48 @@
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_5_Light, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_4_Light, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_5_Heavy, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AssaultRifle_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AssaultRifle_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: MachineGun_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Energy_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AntiTank_Tier_3_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: MachineGun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Energy_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AntiTank_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Bladed_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Shotgun_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Sniper_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Sniper_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Shotgun_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Brawling_Tier_5_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Bladed_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: SMG_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: SMG_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Throwable_Grenade, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+		{ itemTemplate: Brawling_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.30-06_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_.38_S, count: 160 isRestockable : true, minReplenish : 160, maxReplenish : 160 }
+		{ itemTemplate: Ammo_.45_S, count: 140, isRestockable : true, minReplenish : 140, maxReplenish : 140 }
+		{ itemTemplate: Ammo_12-00, count: 90, isRestockable : true, minReplenish : 90, maxReplenish : 90 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 160, isRestockable : true, minReplenish : 160, maxReplenish : 160 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 175, isRestockable : true, minReplenish : 175, maxReplenish : 175 }
+		{ itemTemplate: Ammo_9mm_S, count: 160, isRestockable : true, minReplenish : 160, maxReplenish : 160 }
+		{ itemTemplate: Ammo_EnergyCell, count: 120, isRestockable : true, minReplenish : 120, maxReplenish : 120 }
+		{ itemTemplate: Usable_BloodPack_4, count: 12, isRestockable : true, minReplenish : 12, maxReplenish : 12 }
+		{ itemTemplate: Useable_Surgeon_Kit_2, count: 13, isRestockable : true, minReplenish : 13, maxReplenish : 13 }
+		{ itemTemplate: Usable_AntiBiotics_1, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_AntiVenom_1, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_BloodPack_5, count: 16, isRestockable : true, minReplenish : 16, maxReplenish : 16 }
+		{ itemTemplate: Usable_BloodPack_3, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: Usable_PainRelievers_5, count: 15, isRestockable : true, minReplenish : 15, maxReplenish : 15 }
+		{ itemTemplate: Usable_PainRelievers_4, count: 12, isRestockable : true, minReplenish : 12, maxReplenish : 12 }
+		{ itemTemplate: Usable_Bandages_1, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+	]
+}

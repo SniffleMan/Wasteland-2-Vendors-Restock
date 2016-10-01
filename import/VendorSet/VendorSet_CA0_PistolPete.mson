@@ -1,0 +1,19 @@
+//Pistol Pete, Santa Fe Springs
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_4_Light, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_4_Heavy, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Handgun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AssaultRifle_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Shotgun_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Bladed_Tier_4_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Brawling_Tier_4_1, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.38_S, count: 50, isRestockable : true, minReplenish : 50, maxReplenish : 50 }
+		{ itemTemplate: Ammo_.45_S, count: 25, isRestockable : true, minReplenish : 25, maxReplenish : 25 }
+		{ itemTemplate: Ammo_9mm_S, count: 50, isRestockable : true, minReplenish : 50, maxReplenish : 50 }
+		{ itemTemplate: Beer, count: 6, isRestockable : true, minReplenish : 6, maxReplenish : 6 }
+		{ itemTemplate: Snake Squeezin, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+	]
+}

@@ -1,0 +1,22 @@
+//Townsfolk, Baldwin Hills
+{
+	skus :  [
+		{ itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.30-06_S, count: 150, isRestockable : true, minReplenish : 150, maxReplenish : 150 }
+		{ itemTemplate: Ammo_.45_S, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Ammo_.50_S, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Ammo_12-00, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 150, isRestockable : true, minReplenish : 150, maxReplenish : 150 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 150, isRestockable : true, minReplenish : 150, maxReplenish : 150 }
+		{ itemTemplate: Ammo_EnergyCell, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Useable_Surgeon_Kit_2, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_AntiBiotics_1, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_AntiVenom_1, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_BloodPack_5, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_BloodPack_6, count: 12, isRestockable : true, minReplenish : 12, maxReplenish : 12 }
+		{ itemTemplate: Useable_Surgeon_Kit_3, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_PainRelievers_5, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: Snake Squeezin, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+		{ itemTemplate: Usable_Bandages_1, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+	]
+}

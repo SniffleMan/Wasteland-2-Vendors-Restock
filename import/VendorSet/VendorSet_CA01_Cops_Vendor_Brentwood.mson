@@ -1,0 +1,23 @@
+//Justa Bill, Brentwood Dentist
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_5_Light, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_5_Heavy, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Bladed_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Blunt_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Energy_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: AssaultRifle_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Handgun_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Shotgun_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Sniper_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: SMG_Tier_5_2, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Usable_BloodPack_4, count: 4, isRestockable : true, minReplenish : 4, maxReplenish : 4 }
+    { itemTemplate: Usable_BloodPack_5, count: 7, isRestockable : true, minReplenish : 7, maxReplenish : 7 }
+    { itemTemplate: Usable_BloodPack_6, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+    { itemTemplate: Useable_Surgeon_Kit_2, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: Useable_Surgeon_Kit_3, count: 4, isRestockable : true, minReplenish : 4, maxReplenish : 4 }
+		{ itemTemplate: Hourglass, count: 2 isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+    { itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Snake Squeezin, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+	]
+}
