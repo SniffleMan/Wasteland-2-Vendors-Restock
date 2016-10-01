@@ -1,0 +1,17 @@
+//Igg Humperdink, Inglewood
+{
+	skus :  [
+		{ itemTemplate: Armor_Tier_6_Heavy, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Armor_Tier_6_Light, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+		{ itemTemplate: Ammo_.45_S, count: 50, isRestockable : true, minReplenish : 50, maxReplenish : 50 }
+    { itemTemplate: Ammo_.50_S, count: 50, isRestockable : true, minReplenish : 50, maxReplenish : 50 }
+		{ itemTemplate: Ammo_5.56mm_S, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Ammo_7.62mm_S, count: 100, isRestockable : true, minReplenish : 100, maxReplenish : 100 }
+		{ itemTemplate: Ammo_9mm_S, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Ammo_EnergyCell, count: 75, isRestockable : true, minReplenish : 75, maxReplenish : 75 }
+		{ itemTemplate: Usable_BloodPack_5, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Usable_BloodPack_6, count: 10, isRestockable : true, minReplenish : 10, maxReplenish : 10 }
+		{ itemTemplate: Useable_Surgeon_Kit_2, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+		{ itemTemplate: UsableShovel, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+	]
+}
