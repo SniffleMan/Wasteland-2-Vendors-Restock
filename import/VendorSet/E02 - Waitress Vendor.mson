@@ -1,0 +1,8 @@
+//Waitress, Hollywood
+{
+	skus :  [
+		{ itemTemplate: Beer, count: 12, isRestockable : true, minReplenish : 12, maxReplenish : 12 }
+    { itemTemplate: Usable_RoastedSkorpion_2, count: 3, isRestockable : true, minReplenish : 3, maxReplenish : 3 }
+    { itemTemplate: Snake Squeezin, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+	]
+}

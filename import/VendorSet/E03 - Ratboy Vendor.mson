@@ -1,0 +1,13 @@
+//Ratboy, Hollywood
+{
+	skus :  [
+		{ itemTemplate: Porn Magazine A, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Condom, count: 125, isRestockable : true, minReplenish : 125, maxReplenish : 125 }
+    { itemTemplate: Porn Magazine C, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Merkin, count: 20, isRestockable : true, minReplenish : 20, maxReplenish : 20 }
+    { itemTemplate: Porn Magazine B, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Cowboy_RidingSpurs, count: 1, isRestockable : true, minReplenish : 1, maxReplenish : 1 }
+    { itemTemplate: Snowglobe, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+    { itemTemplate: Vibrator, count: 4, isRestockable : true, minReplenish : 4, maxReplenish : 4 }
+	]
+}

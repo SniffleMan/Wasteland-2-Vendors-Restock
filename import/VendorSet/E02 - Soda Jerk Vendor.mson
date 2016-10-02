@@ -1,0 +1,10 @@
+//Soda Jerk, Hollywood
+{
+	skus :  [
+		{ itemTemplate: Beer, count: 6, isRestockable : true, minReplenish : 6, maxReplenish : 6 }
+    { itemTemplate: Useable_Surgeon_Kit_2, count: 6, isRestockable : true, minReplenish : 6, maxReplenish : 6 }
+    { itemTemplate: Usable_PainRelievers_6, count: 5, isRestockable : true, minReplenish : 5, maxReplenish : 5 }
+    { itemTemplate: Useable_Surgeon_Kit_3, count: 2, isRestockable : true, minReplenish : 2, maxReplenish : 2 }
+    { itemTemplate: Usable_PainRelievers_5, count: 8, isRestockable : true, minReplenish : 8, maxReplenish : 8 }
+	]
+}
